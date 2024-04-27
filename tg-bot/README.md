@@ -78,4 +78,4 @@ WeatherBot позволяет создавать заметки, которые 
 ## Автор
 `Positivezlk` (или `qutei`)
 
-Для более подробной информации обращайтесь к [документациям Telebot](https://github.com/eternnoir/pyTelegramBotAPI), [threading](https://docs.python.org/3/library/threading.html), [requests](https://docs.python-requests.org/en/latest/), [json](https://docs.python.org/3/library/json.html), [schedule](https://schedule.readthedocs.io/en/stable/), [time](https://docs.python.org/3/library/time.html), [pytz](https://pythonhosted.org/pytz/)
+Для более подробной информации обращайтесь к [документациям Telebot](https://pytba.readthedocs.io/en/latest/index.html), [threading](https://docs.python.org/3/library/threading.html), [requests](https://docs.python-requests.org/en/latest/), [json](https://docs.python.org/3/library/json.html), [schedule](https://schedule.readthedocs.io/en/stable/), [time](https://docs.python.org/3/library/time.html), [pytz](https://pythonhosted.org/pytz/)
