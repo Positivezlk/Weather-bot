@@ -1,5 +1,5 @@
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/PyTelegramBotAPI)
-# WeatherBot - Ваш погодный помощник
+# WeatherBot
 WeatherBot - это Telegram бот, созданный с использованием библиотеки `telebot`, который предоставляет прогноз погоды для некоторых городов Калининградской области.
 
 ## Содержание
